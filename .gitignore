@@ -74,3 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 .DS_Store
+
+# Permettre à chacun d'avoir sa propre config:
+Config

@@ -77,3 +77,7 @@ DerivedDataCache/*
 
 # Permettre à chacun d'avoir sa propre config:
 Config
+
+__ExternalActors__
+__ExternalObjects__
+
